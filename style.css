@@ -13,11 +13,31 @@ body {
   margin: 0;
 }
 
+a:hover {
+  background-color: currentColor;
+  color: #F01030;
+}
+
 main {
   padding: 1rem;
 }
 
 header {
+  padding: 1rem;
   background-color: #F01030;
   color: white;
+}
+
+header a {
+  color: white;
+}
+
+.highlighted {
+  background-color: #F01030;
+  color: white;
+}
+
+.highlighted:hover {
+  background-color: white;
+  color: #F01030;
 }
