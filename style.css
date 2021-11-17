@@ -1,3 +1,8 @@
+:root {
+  --berryblue: #104090;
+  --berryred: #F01030
+}
+
 html {
   font-family: serif;
   min-height: 100%;
@@ -13,9 +18,13 @@ body {
   margin: 0;
 }
 
+a {
+  color: var(--berryblue);
+}
+
 a:hover {
-  background-color: currentColor;
-  color: #F01030;
+  background-color: var(--berryblue);
+  color: white;
 }
 
 main {
@@ -24,7 +33,7 @@ main {
 
 header {
   padding: 1rem;
-  background-color: #F01030;
+  background-color: var(--berryred);
   color: white;
 }
 
@@ -33,11 +42,6 @@ header a {
 }
 
 .highlighted {
-  background-color: #F01030;
+  background-color: var(--berryred)
   color: white;
-}
-
-.highlighted:hover {
-  background-color: white;
-  color: #F01030;
 }
