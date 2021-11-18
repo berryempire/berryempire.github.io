@@ -13,7 +13,7 @@ html {
 body {
   display: flex;
   flex-direction: column;
-  min-height: 100%;
+  min-height: 100vh;
   padding: 0;
   margin: 0;
 }
@@ -42,6 +42,25 @@ footer {
   padding: 1rem;
   background-color: var(--berryblue);
   color: white;
+  margin-top: auto;
+}
+
+footer > .links {
+  display: flex;
+}
+
+footer > .links > *:not(:last-child) {
+  margin-right: 1rem;
+  color: white;
+}
+
+footer > .links > *:not(:last-child)::after {
+  content: "";
+  display: block;
+  margin-right: 1rem;
+  width: 2px;
+  height: 1em;
+  background-color: var(--berryred)
 }
 
 header a {
