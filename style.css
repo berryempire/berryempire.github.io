@@ -49,26 +49,25 @@ footer > .links {
   display: flex;
 }
 
-footer a {
-  color: white;
-}
 
 footer > .links > * {
   display: flex;
   background-color: white;
   border-radius: 4px;
   margin-right: 1rem;
+  padding: 0.5rem 1rem;
+  align-items: center;
 }
 
-footer > .links > *:not(:last-child)::before {
+footer > .links > *::before {
   content: "";
   display: block;
-  margin-right: 1rem;
-  margin-left: 1rem;
+  margin-right: 1em;
   width: 2px;
   height: 1em;
-  background-color: var(--berryred)
+  background-color: var(--berryred);
 }
+
 
 header a {
   color: white;
