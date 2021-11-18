@@ -51,6 +51,9 @@ footer > .links {
 
 footer > .links > *:not(:last-child) {
   margin-right: 1rem;
+}
+
+footer a {
   color: white;
 }
 
