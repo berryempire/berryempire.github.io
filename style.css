@@ -49,18 +49,22 @@ footer > .links {
   display: flex;
 }
 
-footer > .links > *:not(:last-child) {
-  margin-right: 1rem;
-}
-
 footer a {
   color: white;
 }
 
-footer > .links > *:not(:last-child)::after {
+footer > .links > * {
+  display: flex;
+  background-color: white;
+  border-radius: 4px;
+  margin-right: 1rem;
+}
+
+footer > .links > *:not(:last-child)::before {
   content: "";
   display: block;
   margin-right: 1rem;
+  margin-left: 1rem;
   width: 2px;
   height: 1em;
   background-color: var(--berryred)
