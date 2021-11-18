@@ -37,8 +37,28 @@ header {
   color: white;
 }
 
+
+footer {
+  padding: 1rem;
+  background-color: var(--berryblue);
+  color: white;
+}
+
 header a {
   color: white;
+}
+
+section {
+  padding: 1rem;
+}
+
+section::before, section::after {
+  content: "";
+  display: block;
+  width: 50%;
+  margin: 0 auto;
+  height: 1px;
+  background-color: var(--berryred)
 }
 
 .highlighted {
