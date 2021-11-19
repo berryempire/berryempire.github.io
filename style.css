@@ -47,13 +47,16 @@ footer {
 
 footer > .links {
   display: flex;
+  flex-wrap: wrap;
 }
 
 
-footer > .links > * {
+footer > .links > p {
   display: flex;
   background-color: white;
   border-radius: 4px;
+  margin: 0;
+  margin-bottom: 1rem;
   margin-right: 1rem;
   padding: 0.5rem 1rem;
   align-items: center;
