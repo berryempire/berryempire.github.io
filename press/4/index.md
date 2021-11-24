@@ -1,5 +1,5 @@
 ## Recognition of the Berry Empire
-<code>November 23th, 2021</code>
+<code>November 23th, 2021</code><br>
 <code>Last updated on November 23th, 2021</code>
 <br>
 <p>Following nations (respectively their governments) were involved in diplomacy with, or stated recognition of, the Berry Empire:</p>
