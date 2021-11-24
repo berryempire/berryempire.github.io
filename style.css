@@ -1,6 +1,7 @@
 :root {
   --berryblue: #104090;
-  --berryred: #F01030
+  --berryred: #F01030;
+  --cloudberry: #ff8080;
 }
 
 html {
@@ -78,6 +79,16 @@ header a {
 
 section {
   padding: 1rem;
+}
+
+.color_orange {
+  background-color: var(--cloudberry);
+  color: white;
+}
+
+.color_orange:hover {
+  background-color: white;
+  color: var(--cloudberry);
 }
 
 .highlighted {
