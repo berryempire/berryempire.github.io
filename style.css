@@ -143,6 +143,7 @@ main p {
 .news {
   display: flex;
   gap: 1rem;
+  flex-wrap: wrap;
 }
 
 .news > * {
