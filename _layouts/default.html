@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <title>{{ page.title }} | Berry Empire</title>
+    <title>{% if page.title %}{{ page.title }} | Berry Empire{% else %}Berry Empire{% endif %}</title>
     <link rel="stylesheet" href="/style.css">
      <meta name="description" content="Berry Empire | Official website">
     <meta property="og:description" content="Offícial website of the Berry Empire">
