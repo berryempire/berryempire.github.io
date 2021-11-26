@@ -1,4 +1,4 @@
-##Berry Empire Press
+## Berry Empire Press
 <p>
   <a href="/press/7/" target="_blank">New embassy in the Confederation of Cannaland</a>
   <a href="/press/6/" target="_blank">Micronear has been fully transferred to the Cupertino Alliance</a>
