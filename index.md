@@ -1,3 +1,4 @@
+## Berry Empire
 <section>
   <p>Berry Empire is a small country claiming sovereignty over 2km<sup>2</sup> of nature.</p>
   <p>Day of independence: 12th December, 2020.</p>
