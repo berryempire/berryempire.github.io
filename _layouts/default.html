@@ -1,13 +1,13 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <title>{% if page.title %}{{ page.title }} | Berry Empire{% else %}Berry Empire{% endif %}</title>
+    <title>{% if page.title %}{{ page.title }} | Berry Empire{% else %}Berry Empire{% endif %}</title>
     <link rel="stylesheet" href="/style.css">
-     <meta name="description" content="Berry Empire | Official website">
-    <meta property="og:description" content="Offícial website of the Berry Empire">
-    <meta property="og:title" content="Berry Empire">
+     <meta name="description" content="{{page.excerpt}}">
+    <meta property="og:description" content="{{page.excerpt}}">
+    <meta property="og:title" content="{% if page.title %}{{ page.title }} | Berry Empire{% else %}Berry Empire{% endif %}">
     <meta property="og:type" content="web" />
-    <meta property="og:url" content="https://berryempire.cupertinoalliance.ca/" />
+    <meta property="og:url" content="{{page.url}}" />
     <meta property="og:image" content="https://berryempire.cupertinoalliance.ca/poster.png" />
     <meta name="theme-color" content="#f01030">
 </head>
