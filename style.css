@@ -1,3 +1,8 @@
+*,*::before,*::after {
+  max-width: 100%;
+  max-height: 100%;
+}
+
 :root {
   --berryblue: #104090;
   --berryred: #F01030;
@@ -21,6 +26,10 @@ body {
 
 a {
   color: var(--berryblue);
+}
+
+img {
+  max-height: 50vh;
 }
 
 a:hover {
@@ -94,4 +103,14 @@ section {
 .highlighted {
   background-color: var(--berryred)
   color: white;
+}
+
+.news {
+  display: flex;
+  gap: 1rem;
+}
+
+.news > * {
+  padding: 5px 10px;
+  margin-right: 10px;
 }
