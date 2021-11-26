@@ -34,6 +34,7 @@ a {
 
 img {
   max-height: 50vh;
+  object-fit: scale-down;
 }
 
 a:hover {
