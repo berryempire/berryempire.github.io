@@ -3,8 +3,8 @@
 <head>
     <title>{% if page.title %}{{ page.title }} | Berry Empire{% else %}Berry Empire{% endif %}</title>
     <link rel="stylesheet" href="/style.css">
-     <meta name="description" content="{{page.excerpt}}">
-    <meta property="og:description" content="{{page.excerpt}}">
+     <meta name="description" content="{{ post.content | strip_html | truncatewords: 25 }}">
+    <meta property="og:description" content="{{ post.content | strip_html | truncatewords: 25 }}">
     <meta property="og:title" content="{% if page.title %}{{ page.title }} | Berry Empire{% else %}Berry Empire{% endif %}">
     <meta property="og:type" content="web" />
     <meta property="og:url" content="{{site.url}}{{page.url}}" />
