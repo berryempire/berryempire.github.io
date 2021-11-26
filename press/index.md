@@ -1,4 +1,4 @@
-##Berry Empire News
+##Berry Empire Press
 <a href="/press/7/" target="_blank">New embassy in the Confederation of Cannaland</a>
 <a href="/press/6/" target="_blank">Micronear has been fully transferred to the Cupertino Alliance</a>
 <a href="/press/5/" target="_blank">Cloudberry rocket announcement</a>
