@@ -1,4 +1,5 @@
 ## Berry Empire Constitution
+<code>August 18th, 2020</code>
 
 ### §0 Sovereignty
 The Berry Empire is an independent and sovereign self-governing international entity.
@@ -16,12 +17,11 @@ The emperor or an authority chosen by the emperor is allowed to grant, suspend o
 ### §4 Visa
 The emperor or an authority chosen by the emperor is responsible for issuing visas.
 
-### §5 Legal documents
-The emperor or an authority chosen by the emperor is responsible for issuing legal documents, passports, visas and postal stamps. -
+### §5 Legal documents
+The emperor or an authority chosen by the emperor is responsible for issuing legal documents, passports, visas and postal stamps.
 
 ### §6 Military
 The emperor may start a mobilization because of propaganda, to defend the empire or as a result of a diplomatic agreement.
-
 
 Signed Redberry, MP
 18th August 2021
