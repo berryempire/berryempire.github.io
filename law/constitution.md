@@ -23,6 +23,6 @@ The emperor or an authority chosen by the emperor is responsible for issuing leg
 ### §6 Military
 The emperor may start a mobilization because of propaganda, to defend the empire or as a result of a diplomatic agreement.
 
-Signed Redberry, MP
-18th August 2021
+Signed Redberry, MP<br>
+18th August 2021<br>
 The Sand Well
