@@ -6,7 +6,7 @@ In the Berry Empire, privacy is a fundamental human right respected even by the 
   <li>Name</li>
   <li>Age (or date of birth respectively)</li>
   <li>Gender</li>
-  <li>Contact information (email, phone number, discord, ...)</li>
+  <li>Contact information (email, phone number, Discord, address, ...)</li>
   <li>Pictures (and motion pictures respectively) of anything</li>
   <li>Messages</li>
   <li>Recordings</li>
@@ -15,7 +15,7 @@ In the Berry Empire, privacy is a fundamental human right respected even by the 
 </ul>
 
 ### Disclosure of private information
-Private information cannot be disclosed without owner's permission.
+Private information cannot be disclosed without the owner's permission.
 
 ### Citizenships, visa and legal documents
 To obtain certain legal documents, you are required to share certain private information.
