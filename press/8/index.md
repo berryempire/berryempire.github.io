@@ -9,5 +9,5 @@ This rocket is tiny, but reusable. Sadly, it couldn't lift off.
 <img src="./rocket3.jpg" />
 <img src="./rocket4.jpg" />
 <p> Bilberry Rocket </p>
-<iframe width="853" height="480" src="https://www.youtube.com/embed/yzNHw41zXjs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="500" height="500" src="https://www.youtube.com/embed/yzNHw41zXjs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"></iframe>
 <p> Slow-motion recording of the launch </p>
