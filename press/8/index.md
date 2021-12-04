@@ -4,8 +4,11 @@
 Berry Empire Space & Telemetry launched the Bilberry rocket today.
 This rocket is tiny, but reusable. Sadly, it couldn't lift off.
 </p>
-<img src="./rocket1.jpg">
-<img src="./rocket2.jpg">
-<img src="./rocket3.jpg">
-<img src="./rocket4.jpg">
+<img src="./rocket1.jpg" />
+<img src="./rocket2.jpg" />
+<img src="./rocket3.jpg" />
+<img src="./rocket4.jpg" />
 <p> Bilberry Rocket </p>
+
+<iframe width="853" height="480" src="https://www.youtube.com/embed/yzNHw41zXjs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<p> Slow-motion recording of the launch </p>
