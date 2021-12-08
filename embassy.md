@@ -28,7 +28,7 @@
     Ogni ambasciata deve fornire
 </p>
 <ul>
-    <li>Un contatto digitale con il governo Berry Empire (e-mail o Discord)</li>
+    <li>Un contatto digitale con il governo dell'impero di Berry (e-mail o Discord)</li>
     <li>Dettagli aggiornati su Berry Empire (come area, popolazione, appartenenza ad alleanze ed esplorazione dello spazio)</li>
     <li>Un bicchiere d'acqua o succo a tutti i visitatori</li>
 </ul>
