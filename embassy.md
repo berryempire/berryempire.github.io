@@ -1,3 +1,6 @@
+Italian or Spanish translation can be found below.
+More translations needed!
+
 ## Instructions for Berry Empire Embassies
 <code>December 8th, 2021</code>
 ### Mandatory services
@@ -18,8 +21,9 @@
     <li>A Berry Empire flag</li>
     <li>A title saying "Berry Empire embassy" in your local language (E.g. "Ambasciata dell'Impero di Berry"). The title can be, but doesn't have to be, printed next to the flag on a single paper.</li>
 </ul>
+We would be grateful for a photo of the embassy if possible!
 
-## [🇮🇹IT] Istruzioni per le ambasciate di Berry Empire
+## 🇮🇹 Istruzioni per le ambasciate di Berry Empire
 
 <code>8 dicembre 2021</code>
 
@@ -38,5 +42,28 @@
 </p>
 <ul>
     <li>Una bandiera dell'Impero di Bacche</li>
-    <li>Un titolo che dice "Berry Empire ambasciata" nella tua lingua locale (ad esempio "Ambasciata dell'Impero di Berry"). Il titolo può essere, ma non deve essere, stampato accanto alla bandiera su un singolo foglio.</li>
+    <li>Un titolo che dice "Berry Empire Embassy" nella tua lingua. Può essere stampato accanto alla bandiera su un unico foglio.</li>
 </ul>
+Saremmo grati per una foto dell'ambasciata, se possibile!
+
+## 🇪🇸 Instrucciones para las embajadas de Berry Empire
+<code>8 de diciembre de 2021</code>
+### Servicios obligatorios
+<p>
+    Cada embajada debe proporcionar
+</p>
+<ul>
+    <li>Un contacto digital con el gobierno de Berry Empire (correo electrónico o Discord)</li>
+    <li>Detalles actualizados sobre Berry Empire (como área, población, membresía en alianzas y exploración espacial)</li>
+    <li>Un vaso de agua o zumo para todos los visitantes.</li>
+</ul>
+
+### Necesarios
+<p>
+    Cada embajada debe tener
+</p>
+<ul>
+    <li>Una bandera de Berry Empire</li>
+    <li>Un título que dice "Embajada de Berry Empire". Se puede imprimir junto a la bandera en un solo papel.</li>
+</ul>
+¡Agradeceríamos una foto de la embajada si es posible!
