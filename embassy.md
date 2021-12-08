@@ -1,4 +1,4 @@
-## Instructions for Berry Empire Embassies
+## 🇬🇧 [English] Instructions for Berry Empire Embassies
 <code>December 8th, 2021</code>
 ### Mandatory services
 <p>
@@ -19,8 +19,15 @@
     <li>A title saying "Berry Empire embassy" in your local language (E.g. "Ambasciata dell'Impero di Berry"). The title can be, but doesn't have to be, printed next to the flag on a single paper.</li>
 </ul>
 We would be grateful for a photo of the embassy if possible!
+<hr>
+## 🇬🇧 [Simple English] Instructions for Berrian Embassy in your micronation
+<code>December 8th, 2021</code>
+Print a document with our flag, email, and some basic information like citizen count, area, and more.
+If you don't speak English, write it in your language.
+Also, please provide water or juice to visitors and send us a photo of the Embassy.
 
-## 🇮🇹 Istruzioni per le ambasciate di Berry Empire
+<hr>
+## 🇮🇹 [italiano] Istruzioni per le ambasciate di Berry Empire
 
 <code>8 dicembre 2021</code>
 
@@ -42,8 +49,8 @@ We would be grateful for a photo of the embassy if possible!
     <li>Un titolo che dice "Berry Empire Embassy" nella tua lingua. Può essere stampato accanto alla bandiera su un unico foglio.</li>
 </ul>
 Saremmo grati per una foto dell'ambasciata, se possibile!
-
-## 🇪🇸 Instrucciones para las embajadas de Berry Empire
+<hr>
+## 🇪🇸 [español] Instrucciones para las embajadas de Berry Empire
 <code>8 de diciembre de 2021</code>
 ### Servicios obligatorios
 <p>
