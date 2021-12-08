@@ -22,6 +22,7 @@ We would be grateful for a photo of the embassy if possible!
 <hr>
 ## 🇬🇧 [Simple English] Instructions for Berrian Embassy in your micronation
 <code>December 8th, 2021</code>
+
 Print a document with our flag, email, and some basic information like citizen count, area, and more.
 If you don't speak English, write it in your language.
 Also, please provide water or juice to visitors and send us a photo of the Embassy.
