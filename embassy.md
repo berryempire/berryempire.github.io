@@ -1,6 +1,3 @@
-Italian or Spanish translation can be found below.
-More translations needed!
-
 ## Instructions for Berry Empire Embassies
 <code>December 8th, 2021</code>
 ### Mandatory services
@@ -67,3 +64,6 @@ Saremmo grati per una foto dell'ambasciata, se possibile!
     <li>Un título que dice "Embajada de Berry Empire". Se puede imprimir junto a la bandera en un solo papel.</li>
 </ul>
 ¡Agradeceríamos una foto de la embajada si es posible!
+
+## Translate
+Help non-english speaking micronations understand this page by translating it. berryempire@protonmail.com
