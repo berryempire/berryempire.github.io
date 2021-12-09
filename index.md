@@ -15,6 +15,6 @@
 </section>
 <section>
 <h3> For embassies </h3>
-  <a class="thickbutton thick" target="_blank" href="/embassy/"> <span>Requirements</span> </a>
+  <a class="thickbutton thick" target="_blank" href="/embassy/"> <span>Instructions</span> </a>
 </section>
 <img src="https://media.discordapp.net/attachments/850110387243319327/850111340277137448/Berry_Kingdom1.png">
