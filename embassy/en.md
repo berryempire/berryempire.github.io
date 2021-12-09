@@ -16,7 +16,8 @@
 </p>
 <ul>
     <li>A Berry Empire flag</li>
-    <li>A title saying "Berry Empire embassy" in your local language (E.g. "Ambasciata dell'Impero di Berry"). The title can be, but doesn't have to be, printed next to the flag on a single paper.</li>
+    <li>A title saying "Berry Empire embassy" in your local language</li>
 </ul>
-We would be grateful for a photo of the embassy if possible!
+
+<p>We would be grateful for a photo of the embassy if possible!</p>
 <hr>
