@@ -1,6 +1,5 @@
 <section>
-  <p>A micronation for everyone who loves berries.</p>
-  <p>Day of independence: 12th December, 2020.</p>
+  <p>Berry Empire is a micronation for everyone who loves berries. Independent since 12th December of 2020.</p>
 </section>
 <section>
   <h3 class="highlighted"> Citizenship </h3>
@@ -16,6 +15,5 @@
 <section>
 <h3> For embassies </h3>
   <a class="thickbutton thick" target="_blank" href="/embassy.html"> <p>Requirements</p> </a>
-
 </section>
 <img src="https://media.discordapp.net/attachments/850110387243319327/850111340277137448/Berry_Kingdom1.png">
