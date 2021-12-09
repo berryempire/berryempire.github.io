@@ -42,13 +42,10 @@ a:hover {
   color: white;
 }
 
-section, main {
+main {
+  padding: 3rem;
   display: flex;
   flex-direction: column;
-}
-
-section {
-  padding: 3rem;
   align-items: baseline;
 }
 
