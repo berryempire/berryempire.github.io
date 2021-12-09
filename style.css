@@ -42,9 +42,16 @@ a:hover {
   color: white;
 }
 
-main {
-  padding: 1rem;
+section, main {
+  display: flex;
+  flex-direction: column;
 }
+
+section {
+  padding: 3rem;
+  align-items: baseline;
+}
+
 
 header {
   padding: 2rem 1rem;
@@ -83,7 +90,6 @@ footer > .links {
   text-decoration: none;
   background-color: var(--berryblue);
   color: white;
-  padding: inherit;
 }
 
 
@@ -137,12 +143,6 @@ footer a.thickbutton::before {
 
 header a {
   color: white;
-}
-
-section, main {
-  padding: 2rem;
-  display: flex;
-  flex-direction: column;
 }
 
 main h2 {
