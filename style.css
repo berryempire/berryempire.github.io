@@ -32,6 +32,10 @@ a {
   color: var(--berryblue);
 }
 
+p {
+  margin-bottom: 1rem;
+}
+
 img {
   max-height: 50vh;
   object-fit: scale-down;
@@ -71,14 +75,14 @@ footer {
 footer > .links {
   display: flex;
   flex-wrap: wrap;
+  gap: 0.5rem;
+  margin-bottom: 1rem;
 }
 
 .thickbutton {
   display: inline-flex;
   border-radius: 4px;
   margin: 0;
-  margin-bottom: 1rem;
-  margin-right: 1rem;
   align-items: center;
   position: relative;
   z-index: 0;
@@ -90,7 +94,7 @@ footer > .links {
 }
 
 
-.thickbutton > p {
+.thickbutton > span {
   z-index: 2;
   padding: inherit;
   padding-left: 1rem;
@@ -98,7 +102,7 @@ footer > .links {
   color: inherit;
 }
 
-.thickbutton.thick > p {
+.thickbutton.thick > span {
     padding-top: 0.5rem;
     padding-bottom: 0.5rem
 }
@@ -121,13 +125,14 @@ footer > .links {
   left: 0;
 }
 
-.thickbutton:hover p {
+.thickbutton:hover span {
   color: var(--berryblue);
 }
 
 footer a.thickbutton {
   background-color: white;
   color: var(--berryblue);
+
 }
 
 footer a.thickbutton:hover p {
