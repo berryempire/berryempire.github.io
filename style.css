@@ -196,10 +196,12 @@ nav {
 }
 
 nav a {
-  padding: 0 0.5rem
+  padding: 0.3rem 0.3rem;
+  text-decoration: none;
+  border-radius: 0.3rem;
 }
 
-nav a::after {
+nav a:not(:last-child)::after {
   content: ">";
-  padding: 0 0.2rem;
+  margin-left: 0.8rem;
 }
