@@ -20,4 +20,3 @@
 </ul>
 
 <p>We would be grateful for a photo of the embassy if possible!</p>
-<hr>
