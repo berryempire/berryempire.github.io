@@ -70,7 +70,7 @@ footer > .links {
 }
 
 .thickbutton {
-  display: flex;
+  display: inline-flex;
   border-radius: 4px;
   margin: 0;
   margin-bottom: 1rem;
@@ -82,16 +82,22 @@ footer > .links {
   transition: color .1s .2s;
   text-decoration: none;
   background-color: var(--berryblue);
+  color: white;
+  padding: inherit;
 }
 
-
-footer > .links > a.thickbutton {
-    background-color: white;
-}
 
 .thickbutton > p {
   z-index: 2;
-  padding: 0.5rem 1rem;
+  padding: inherit;
+  padding-left: 1rem;
+  padding-right: 1rem;
+  color: inherit;
+}
+
+.thickbutton.thick > p {
+    padding-top: 0.5rem;
+    padding-bottom: 0.5rem
 }
 
 .thickbutton::before {
@@ -102,18 +108,31 @@ footer > .links > a.thickbutton {
   margin-right: 1em;
   width: 2px;
   height: 1em;
-  background-color: white;
+  background-color: lightblue;
   transition: width .1s .1s, height .1s .0s, left .1s;
-}
-
-footer > .links > a::before {
-  background-color: var(--berryred);
 }
 
 .thickbutton:hover::before {
   width: 100%;
   height: 100%;
   left: 0;
+}
+
+.thickbutton:hover p {
+  color: var(--berryblue);
+}
+
+footer a.thickbutton {
+  background-color: white;
+  color: var(--berryblue);
+}
+
+footer a.thickbutton:hover p {
+  color: white;
+}
+
+footer a.thickbutton::before {
+  background-color: var(--berryred);
 }
 
 header a {
