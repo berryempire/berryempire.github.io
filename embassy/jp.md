@@ -20,3 +20,4 @@
 </ul>
 
 <p>できれば大使館の写真をいただければ幸いです！</p>
+<img src="/embassy/embassygirl.png">
