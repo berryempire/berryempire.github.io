@@ -1,5 +1,7 @@
 ## Berry Empire Press
 <ol type="1" reversed>
+  <li><a href="/press/9/" target="_blank">Rocket propellant testing</a></li>
+  <li><a href="/press/8/" target="_blank">First launch of the Bilberry rocket</a></li>
   <li><a href="/press/7/" target="_blank">New embassy in the Confederation of Cannaland</a></li>
   <li><a href="/press/6/" target="_blank">Micronear has been fully transferred to the Cupertino Alliance</a></li>
   <li><a href="/press/5/" target="_blank">Cloudberry rocket announcement</a></li>
