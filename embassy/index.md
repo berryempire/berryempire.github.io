@@ -6,5 +6,6 @@
   <li lang="zh"><a href="./russian.html"> Pусский - Russian </a></li>
   <li lang="it"><a href="./italian.html"> italiano - Italian </a></li>
   <li lang="es"><a href="./spanish.html"> español - Spanish </a></li>
+  <li lang="cz"><a href="./czech.html">čeština - Czech</a></li>
   <li lang="unknown"><a href="./ikonian.html">Iσataioiπio - Ikonian</a></li>
 </ul>
