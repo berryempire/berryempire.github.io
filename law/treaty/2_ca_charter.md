@@ -1,7 +1,4 @@
-
-Cupertino Alliance
-
-The Charter of the Cupertino Alliance, 2021
+# The Charter of the Cupertino Alliance, 2021
 Statues of the Cupertino Alliance, 2021
 Published by Authority
 Written by Carson Snyder, Superior Judge
@@ -9,13 +6,12 @@ Written by Carson Snyder, Superior Judge
 Based on the 2020 edition written by Jayden Lycon
 Edited by Tyler Mullins, Daniel Hamilton, and Charles Burgardt
 
-
 Copyright Statement
 The Cupertino Alliance Printer holds copyright on behalf of the Government of the Cupertino Alliance and her member states. The Cupertino Alliance Printer permits any person to reproduce this act without asking for permission and without charge, under the Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0). You will be required to attribute the author, for which the name of the author is:
 
 CARSON SNYDER, SUPERIOR JUDGE OF THE CUPERTINO ALLIANCE
 
-Preamble
+## Preamble
 Adapted works
 The following items have been adapted into or have inspired the contents of this document, listed is the item name, author, and what portion of this document it affected:
 
@@ -40,7 +36,7 @@ This act may be referred to as any of the following names:
 
 
 
-Chapter 1 - Membership
+## Chapter 1 - Membership
 §1 Article 1
 The following requirements and statuses are to be met in order for a nation to join and be part of the Cupertino Alliance in any status:
 	
@@ -53,84 +49,84 @@ Be a nation not under the control of or authority of another nation or entity.
 Must not be in a war or major conflict with any other member state.
 At least one available and willing representative to act as a delegate for the nation.
 
-§2 Article 2
+### §2 Article 2
 No applicant nor delegate may engage in a deal for any support, oppose, or abstain vote for any political incentives, monetary or physical gains, or coerced actions.
 
 
-§3 Article 3
+### §3 Article 3
 No applicant nor delegate may engage in harassment within any staff in the Cupertino Alliance in regard to membership voting.
 
-§4 Article 4
+### §4 Article 4
 If, by any chance, the Ministry of Membership Attainment deems that a nation has already applied for an application too recently, may reject the application. This requires that over two (2)  applications were sent during a period of two (2) months, with each time the Ministry did not see any significant improvement during the two (2) applications. This can be overturned with a fifty-one percent (51%) majority vote in Parliament. Though, a rejected member state can reapply anytime in a reasonable matter. 
 
-§5 Article 5
+### §5 Article 5
 There will be varying degrees of membership of which a nation may hold within the Cupertino Alliance, which must be as follows: 
 
 Observership
 Provisional membership
 Full membership
 
-§6 Article 6
+### §6 Article 6
 Observership will be a degree of membership to allow nations a certain amount of association with the Cupertino Alliance while not seeking full membership. 
 
-§6.1
+### §6.1
 Nations holding observership in the Cupertino Alliance, also called observer nations, must be permitted to have two delegates to the Cupertino Alliance Parliament. Observer nations must not hold voting rights in the Cupertino Alliance outside of instanced procedural motions relating to parliamentary processes such as ending a session early, removing a delegate from the session, or moving on to another agenda topic. Observer nations must not be automatically permitted to participate in Cupertino Alliance programs, Observer nations must rather only be permitted into programs specified by the Cupertino Alliance Parliament.
 
-§6.2
+### §6.2
 Nations who seek to be observers will need to petition the Chair of the Cupertino Alliance to join as observers, and upon confirmation for eligibility by both the Chair and the Safeguarding Officer be granted the membership. The Cupertino Alliance Parliament will be able to rescind a nation’s observership by a majority vote of Parliament, and that nation will not be able to petition for observership again for a period of sixty days.
 
-§6.3
+### §6.3
 Nations holding full membership or provisional membership in the Cupertino Alliance may, by requesting such of the Chair of the Cupertino Alliance, have their membership status changed to that of an observer.
 
-§6.4
+### §6.4
 Observer nations that have held their observership in good standing for at least ninety days and meet the requirements to hold provisional membership must, upon meeting the requirements to apply for provisional membership, be automatically granted provisional membership upon formal petition of the Chair of the Cupertino Alliance to acquire such status via a chairmanship order with the signature of the Safeguarding Officer. The Chair of the Cupertino Alliance may grant the petition or reject the petition with rationale through Chair order, upon which the petitioning nation may apply for provisional membership through the Cupertino Alliance Parliament.
 
-§7 Article 7
+### §7 Article 7
 Provisional membership will be a degree of membership for nations who are seeking to gain full membership in the Cupertino Alliance.
 
-§7.1
+### §7.1
 Nations holding provisional membership, also known as provisional members, must be permitted to have, at most, three delegates to the Cupertino Alliance Parliament. Provisional members must not hold voting rights in the Cupertino Alliance outside of instanced procedural motions relating to parliamentary processes, such as ending a session early, removing a delegate from the session, or moving on to another agenda topic. Provisional members must not be automatically permitted to participate in Cupertino Alliance programs, provisional members must rather only be permitted into programs specified by the Cupertino Alliance Parliament.
 
-§8 Article 8
+### §8 Article 8
 Upon holding provisional membership in good standing for at least twenty-eight days, attending at least two sessions of the Cupertino Alliance Parliament, and receiving a sponsorship of a full member during a session, nations may apply for a membership upgrade through an application form made by the Ministry of Membership Attainment.
 
-	§8.1
-	Should a nation be eligible to apply for a membership upgrade for a week without 
+### §8.1
+Should a nation be eligible to apply for a membership upgrade for a week without 
 applying for one, the Ministry of Membership Attainment must notify a delegate of the 
 nation to have their nation apply for a membership upgrade. Should the nation not apply for membership upgrade or provide sufficient reason for delay to the Ministry’s satisfaction after ten days of receiving the notification, the nation may have their membership status changed to holding observership.
 
-§9 Article 9
+### §9 Article 9
 Nations applying for any level of membership or a membership upgrade within the Cupertino Alliance must complete an appropriate application form made by the Ministry of Membership Attainment which, to the satisfaction of the Cupertino Alliance Parliament, collects relevant information, under the judgment of the Cupertino Alliance Parliament and Ministry of Membership Attainment, pertaining to determining whether or not a nation is suitable for membership or membership upgrade.
 
-§9.1
+### §9.1
 	Should an applying nation be found to not be suitable, beyond a shadow of a doubt, for 
 their desired membership status or membership upgrade, the Chair of the Cupertino 
 Alliance may unilaterally decline the bid through Chair order which can then be 
 overturned by means described in §40.3.2 or can be challenged by the affected applying 
 party in the Superior Court.
 
-§10 Article 10
+### §10 Article 10
 Nations, upon applying for any level of membership or a membership upgrade, must be deliberated upon by the Cupertino Alliance Parliament in no fewer than one session for each region in the Cupertino Alliance. 
 
-§11 Article 11
+### §11 Article 11
 Upon conclusion of deliberation, membership applications and upgrades must be put to be voted upon by all eligible delegates of the Cupertino Alliance Parliament for no less than seventy-two hours, or three days.
 
-§11.1
+### §11.1
 Eligible delegates will be able to vote either “in favor” or “against” or “abstain” in a vote for the admittance of a nation for membership. Should the vote finish with a majority voting “in favor”, the nation must be admitted as a member at the degree they applied for, and should the vote finish with a majority voting “against”, the nation must not be admitted as a member.
 
-§11.1.1
+### §11.1.1
 Should a nation not be admitted to the Cupertino Alliance as a member they may reapply for membership in the Cupertino Alliance under the same stipulations as a new member as long as thirty days have passed since their expulsion or denial and as long as the Ministry of Membership Attainment believes the reason they had been originally declined membership has been properly addressed and rectified. 
 
-§11.2
+### §11.2
 Eligible delegates must be able to vote either “promote” or “retain” or “abstain” in a vote for the upgrade of a nation to full membership. Should the vote finish with a majority voting “promote” the nation must be promoted to full membership in the Cupertino Alliance, and should the vote finish with a majority voting “retain”, the nation must remain with provisional membership.
 
-§11.2.1
+### §11.2.1
 Should a nation be retained with provisional membership, the nation must be eligible to reapply for a membership upgrade thirty days after the conclusion of their most recent membership upgrade vote.
 
-§11.2.2
+### §11.2.2
 Should a nation not seek to retain their provisional membership, they may request the Ministry of Membership Attainment to have their membership status changed to holding observership.
 
-§12 Article 12
+### §12 Article 12
 Nations must be liable to lose their membership status automatically, by order of the Chair of the Cupertino Alliance and approval of the Superior Court, should the nation meet any of the following criteria:
 
 Not having any delegates to the Cupertino Alliance for an extended period, no less than seven days.
@@ -139,20 +135,20 @@ Having been dissolved as a nation or absorbed into another nation.
 Becoming part of or a subsidiary of another nation or entity in which the independence of the nation is lost.
 No longer meeting the criteria for being a member of the Cupertino Alliance listed in §1
 
-§12.1
+### §12.1
 	The Chair of the Cupertino Alliance must be required to notify the nation of their loss of 
 membership and the delegates of the Alliance as a whole.
 
-§13 Article 13
+### §13 Article 13
 The Cupertino Alliance Parliament must hold the authority to expel a nation as a member of the Cupertino Alliance for any reason.
 
-§13.1
+### §13.1
 	Should the Parliament seek to expel a nation as a member, the delegates seeking to expel 
 a nation must bring forward a justification for the expulsion of the nation in question to 
 be presented to and deliberated upon by the Cupertino Alliance Parliament in no fewer 
 than one session for each region in the Cupertino Alliance. 
 
-§13.1.1
+### §13.1.1
 Upon conclusion of deliberation expulsion votes must be be voted upon by all 
 eligible delegates of the Cupertino Alliance Parliament for no less than 
 seventy-two hours, or three days. Eligible delegates must be able to vote either 
@@ -162,28 +158,28 @@ must be removed as a member of the Cupertino Alliance, and should the vote
 finish with a majority voting “retain”, the nation must not be removed as a 
 member.
 
-§13.2
+### §13.2
 Should a nation be recommended for expulsion and not be expelled, the nation in 
 question must be exempt to being expelled from or be deliberated on being expelled from 
 the Cupertino Alliance by the Cupertino Alliance Parliament for a period of no more than 
 thirty days.
 
-§13.2.1
+### §13.2.1
 Nations must still be liable to be expelled automatically by the Chair of the 
 Cupertino Alliance as outlined in §12.
 
-§14 Article 14
+### §14 Article 14
 Nations that are expelled from the Cupertino Alliance may reapply for membership in the Cupertino Alliance under the same stipulations as a new member as long as thirty days have passed since their expulsion and as long as the Ministry of Membership Attainment believes the reason they had been expelled has been properly address and rectified. 
 
-§15 Article 15
+### §15 Article 15
 Nations must hold the sovereign authority to, through their own legitimate legal processes, withdraw from the Cupertino Alliance as a member upon notifying the Ministry of Membership Attainment. 
 
-§15.1
+### §15.1
 Nations that withdraw from the Cupertino Alliance must be eligible to reapply for 
 membership in the Cupertino Alliance after a period of thirty days after their withdraw is 
 recognized.
 
-		§15.1.1
+### §15.1.1
 Nations that withdraw from the Cupertino Alliance are ineligible for the degree of 
 membership they had when they withdrew, and will instead need to reapply under 
 the same stipulations as a new member.
@@ -191,24 +187,22 @@ the same stipulations as a new member.
 §16 Article 16
 The legal successor state of a micronation that held Cupertino Alliance membership up until its dissolution may, with permission from the Ministry of Membership Attainment, the Chair of the Board, and the Superior Court, assume the obligations formerly held by said micronation as a member of the Alliance. 
 
-	§16.1
+### §16.1
 If a micronation with membership splits into two or more states, none of the states 
 may assume the seat formerly held by the member state they are succeeding; such 
 states may apply for membership as described earlier in this chapter. Micronations that 
 secede from a member state that has not dissolved are ineligible for automatic 
 membership.
 
-
-
-Chapter 2 - Delegates
-§17 Article 17
+## Chapter 2 - Delegates
+### §17 Article 17
 Delegates are the legal representatives of member nations to the Cupertino Alliance Parliament.
 
 	§17.1
 The head of state, head of government, government, and primary delegate of nations must 
 have the authority to appoint or remove delegates of their own nation. The Minister of Membership Attainment must be made aware of any changes to delegations.
 
-§18 Article 18
+### §18 Article 18
 A delegate may be relieved of their duties at any time by any reason by
 A head of state of their member nation;
 A head of government of their member nation;
@@ -217,7 +211,7 @@ The primary delegate of their member nation;
 Seventy percent (70%) supermajority vote of the Cupertino Parliament;
 Chair order with the agreement of the Superior Judge upon a valid violation of this Charter or other Cupertino Alliance document.
 
-§19 Article 19
+### §19 Article 19
 To be a delegate, an individual must meet the following requirements or prerequisites: 
 
 Be a citizen of the member nation they will be representing. 
@@ -231,91 +225,91 @@ Have a Discord account older than one (1) month old.
 
 The Chair of the Board with approval from the Superior Judge may deny a member nation to appoint a delegate for violations of these reasons.
 
-§20 Article 20
+### §20 Article 20
 Delegates must reserve the independent right to resign as a delegate for their nation in the Cupertino Alliance.
 
-§21 Article 21
+### §21 Article 21
 Delegates will be defined as being delegates in multiple degrees.
 
-	§21.1
+### §21.1
 	Delegates for nations holding observership in the Cupertino Alliance will be considered
 observer delegates.
 
-§21.2
+### §21.2
 	Delegates for nations holding provisional membership in the Cupertino Alliance will be 
 considered provisional delegates.
 
-§21.3
+### §21.3
 Delegates for nations holding full membership in the Cupertino Alliance will be split
 into holding three further degrees, primary, secondary, and tertiary delegates under the umbrella of being full delegates. For which delegate holds what degree must be defined by the nation they act as a delegate for.
 
-§22 Article 22
+### §22 Article 22
 Delegates must be placed in one region of parliament of the Cupertino Alliance either by basis of their residency or their own personal request.
 
-§23 Article 23
+### §23 Article 23
 Delegates may be expelled from the Cupertino Alliance as delegates by order of the Superior Court due to repeated rule violation, complaints by other delegates, violations of Cupertino Alliance legislation including this Charter, or other incidents which would place the delegate in bad standing.
 
-	§23.1
+### §23.1
 Delegates may only return to act as a delegate in the Cupertino Alliance after being expelled only with permission of the Superior Court and the Safeguarding Officer.
 
-§23.2
+### §23.2
 Delegates may be removed by the Chair of the Board and their cabinet if a prompt removal is considered necessary, these cases will be reviewed by the Superior Court after the incident.
 
 
-Chapter 3 - Parliament
-§24 Article 24
+## Chapter 3 - Parliament
+### §24 Article 24
 The parliament of the Cupertino Alliance is to be known as the Cupertino Alliance Parliament.
 
-§25 Article 25
+### §25 Article 25
 All delegates to the Cupertino Alliance will be members of the Cupertino Alliance Parliament.
 
-§26 Article 26
+### §26 Article 26
 Each full member of the Cupertino Alliance will be granted one vote to be used by it’s delegation.
 
-	§26.1
+### §26.1
 Observers and provisional members, and by extension observer delegates and provisional delegates, will not be granted a vote in the Cupertino Alliance Parliament.
 
-	§26.2
+### §26.2
 Primary delegates for full members will be designated to submit the vote for the nation they represent.
 
-	§26.3
+### §26.3
 If a primary delegate is to be unavailable to vote for an extended period of time, the primary delegate or nation they represent may, by requesting such of the Chair of the Cupertino Alliance, have the voting delegate changed to the secondary delegate, whereas if the same scenario occurs with the secondary delegate, the secondary delegate or nation they represent may also request to the Chair that the voting delegate be changed to the tertiary delegate.
 
-§27 Article 27
+### §27 Article 27
 Votes will be conducted in a voting hall separate from the Cupertino Alliance Parliament and will be conducted in a way to ensure the confidentiality of how delegates voted. 
 
-	§27.1
+### §27.1
 No person, except those administering a vote, will in any way gain access to or distribute how delegates voted for matters in the voting hall, and doing so will be in violation of this act.
 
-	§27.2
+### §27.2
 Votes may be presented in the voting hall by the Chair of the Cupertino Alliance, session hosts, or other appropriate ministerial staff.
 
-	§27.3
+### §27.3
 	Votes will be open for at least seventy-two hours (three days).
 
-§27.3.1
+### §27.3.1
 Votes considered urgent or addressing an emergency will, after petition of and 
 approval of the Superior Court, have their voting time shortened to twenty four 
 hours, or one day.
 
-§27.3.1
+### §27.3.1
 Should a vote fail to be presented when deemed appropriate, the Superior Court 
 may intervene and put it to vote.
 
-	§28.4
+### §28.4
 Items may not be put to vote unless they have been presented to and deliberated upon by 
 the Cupertino Alliance Parliament in no fewer than one session for each region in the 
 Cupertino Alliance. 
 
-§28.4.1
+### §28.4.1
 Votes considered urgent or addressing an emergency will, after petition of and 
 approval of the Superior Court, have their needed discussions before being put to 
 vote be lowered to one session of any region.
 
-§29 Article 29
+### §29 Article 29
 Sessions will be hosted on a regional basis, with sessions specifically catered to allow delegates from those regions to attend. Regions will be specified by the Cupertino Alliance Parliament which will be centered around geography and time zones, and every delegate must be able to belong to a region that appropriately represents their situation.
 
-	§29.1
+### §29.1
 Sessions will be available to be attended by all delegates regardless of if the session is catering to their region or not.
 
 §30 Article 30
