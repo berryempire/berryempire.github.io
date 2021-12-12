@@ -1,4 +1,4 @@
-## First IAC Charter
+# First IAC Charter
 <h2><span class="mw-headline" id="Preamble">Preamble</span></h2>
 <p>The member states of the International Aerospace Community (IAC) hereby ratify this Charter in order to establish an international organisation within which organisations within their nation relating to aerospace can cooperate, share knowledge, discuss relevant subjects and consolidate their resources.
 </p>
@@ -92,8 +92,3 @@
 <h3><span class="mw-headline" id="Section_V:_Record_of_Statutes">Section V: Record of Statutes</span></h3>
 <ol><li>A statute of the IAC shall be defined as a vote passed by member-states (excluding applications), that&nbsp; will usually regulate the activities of any individual, nation or organisation represented (ie. participates in any capacity within the organisation, so including both members and observers) within the IAC.</li>
 <li>The Chairperson shall be responsible for recording statutes in a publicly-available fashion.</li></ol>
-<h2><span class="mw-headline" id="Amendments">Amendments</span></h2>
-<h2><span class="mw-headline" id="Notes">Notes</span></h2>
-<h2><span class="mw-headline" id="References">References</span></h2>
-<div class="reflist" style="list-style-type: decimal;">
-</div>
