@@ -1,4 +1,4 @@
-## 1st birthday
+## 1 year since establishment
 <code>December 12th, 2021</code>
 
 Berry Empire was established exactly one year ago, today.
