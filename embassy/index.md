@@ -9,3 +9,7 @@
   <li lang="cz"><a href="./czech.html">čeština - Czech</a></li>
   <li lang="unknown"><a href="./ikonian.html">Iσataioiπio - Ikonian</a></li>
 </ul>
+
+### Embassy page template
+<a href="./template/" class="thickbutton"><span>How to use the template</span></a>
+<a href="./template/embassypage.html" target="_blank" class="thickbutton"><span>Template</span></a>
