@@ -6,5 +6,7 @@ It has undergone a lot of development since then, and became a part of the micro
 
 By this, I would like to thank all supporters and opponents of the Berry Empire for a truly unique year.
 
-~ Redberry Null,
+~ Redberry Null, <br>
 Emperor of the Berry Empire
+
+<img src="/images/flag.png"/>
