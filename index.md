@@ -17,4 +17,4 @@
 <h3> For embassies </h3>
   <a class="thickbutton thick" href="/embassy/"> <span>Instructions</span> </a>
 </section>
-<img src="/images/flag.png">
+<img src="/images/flag.png" height="300" />
