@@ -34,7 +34,14 @@ a {
 }
 
 .logo {
-  font-size: 2.5rem;
+    font-size: 2.5rem;
+    text-transform: uppercase;
+    letter-spacing: 0.9rem;
+    text-decoration: none;
+}
+
+.logo:hover {
+  letter-spacing: 1rem;
 }
 
 p, a {
