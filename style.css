@@ -41,6 +41,7 @@ a {
 }
 
 .logo:hover {
+  background: transparent;
   letter-spacing: 1rem;
 }
 
