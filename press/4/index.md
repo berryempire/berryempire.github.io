@@ -1,4 +1,4 @@
-## Recognition of the Berry Empire
+# Recognition
 <code>November 23th, 2021</code><br>
 <code>Last updated on November 23th, 2021</code>
 <br>
