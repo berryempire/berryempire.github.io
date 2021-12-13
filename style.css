@@ -11,6 +11,10 @@
 
   --cranberry: #F05040;
   --cloudberry: #ff8000;
+
+  --negative-0: #000000;
+  --negative-1: #101010;
+  --negative-2: #202020;
 }
 
 html {
@@ -33,16 +37,34 @@ a {
   color: var(--berryblue);
 }
 
-.logo {
-    font-size: 2.5rem;
-    text-transform: uppercase;
-    letter-spacing: 0.9rem;
-    text-decoration: none;
+body {
+  color: var(--negative-2);
 }
+
+.logo {
+    text-decoration: none;
+    transition: all .2s;
+    text-transform: uppercase;
+    letter-spacing: 0.3rem;
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+    color: white;
+
+    margin: 0;
+}
+
+.logo span:first-child {
+    color: white;
+    font-size: 2rem;
+}
+
 
 .logo:hover {
   background: transparent;
-  letter-spacing: 1rem;
+  letter-spacing: .4rem;
 }
 
 p, a {
@@ -155,12 +177,20 @@ footer a.thickbutton::before {
   background-color: var(--berryred);
 }
 
-header a {
-  color: white;
+h1 {
+  color: var(--negative-0);
+  font-size: 3rem;
 }
 
-main h2 {
+h2 {
+  color: var(--negative-0);
   font-size: 2rem;
+}
+
+h3 {
+  font-weight:600;
+  color: var(--negative-0);
+  text-transform: uppercase;
 }
 
 h3 {
@@ -183,24 +213,27 @@ h3 {
 }
 
 .news {
+  background-color: var(--berryblue);
   display: flex;
   gap: 1rem;
   flex-wrap: wrap;
+  padding: 1rem;
 }
 
 .news > * {
-  padding: 5px 10px;
-  margin: 0 10px;
+  padding: 5px 1rem;
+  margin: 0 0.5rem;
   border-radius: 4px;
   transition: all .1s;
+  color: white;
 }
 
 .news > *:not(:first-child) {
-    background-color: var(--cranberry);
+    background-color: var(--berryred);
 }
 
 .news > *:not(:first-child):hover {
-  padding: 5px 20px;
+  padding: 5px 1.5rem;
   margin: 0;
 }
 
