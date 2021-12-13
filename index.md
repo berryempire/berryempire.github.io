@@ -1,5 +1,6 @@
+# Berry Empire Official Website
 <section>
-  <p>Berry Empire is a micronation for everyone who loves berries. Independent since 12th December of 2020.</p>
+  <p>Berry Empire is a micronation for everyone who loves berries. Independent since 12th December, 2020.</p>
 </section>
 <section>
   <h3 class="highlighted"> Citizenship </h3>
@@ -10,6 +11,7 @@
 <section>
   <h3> For Diplomats </h3>
   <p>Berry Empire is a proud member of the Cupertino Alliance and the International Aerospace Community.</p>
+  <a class="thickbutton thick" href="/press/"> <span>Press</span> </a>
   <a class="thickbutton thick" href="mailto:berryempire@protonmail.com"> <span>Email</span> </a>
   <a class="thickbutton thick" target="_blank" href="https://micronear.cupertinoalliance.com/micronation.html?m=RR"> <span>Micronear page</span> </a>
 </section>
