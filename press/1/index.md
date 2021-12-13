@@ -1,4 +1,4 @@
-## Old citizenships revoked
+# Old citizenships revoked
 <code>November 18th, 2021</code>
 
 All Berry Empire citizenships granted <strong>in person</strong> before November 1st, 2021 have been revoked.
