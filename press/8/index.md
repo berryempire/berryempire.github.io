@@ -1,4 +1,4 @@
-## First launch of the Bilberry rocket
+# Bilberry rocket launched
 <code>December 4th, 2021</code><br>
 <p>
 Berry Empire Space & Telemetry launched the Bilberry rocket today.
