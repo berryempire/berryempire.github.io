@@ -105,6 +105,7 @@ footer {
   background-color: var(--berryblue);
   color: white;
   margin-top: auto;
+  text-align: center;
 }
 
 footer > .links {
