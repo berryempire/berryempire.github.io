@@ -33,6 +33,10 @@ a {
   color: var(--berryblue);
 }
 
+.logo {
+  font-size: 2.5rem;
+}
+
 p, a {
   margin-bottom: 1rem;
 }
