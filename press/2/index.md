@@ -1,4 +1,4 @@
-## Domain provided by the Cupertino Alliance
+# Domain provided by the Cupertino Alliance
 <code>November 21th, 2021</code>
 <br>
 <p>Berry Empire joined the Cupertino Alliance on September 7th, 2021.
