@@ -15,6 +15,7 @@
 - Kingdom of **Pontunia** (14/12/2021 16:49:12)
 - **Jorsanasia** (14/12/2021 16:55:51)
 - Republic of **Molossia** (14/12/2021 17:45:00)
+- **Waterside Park** (14/12/2021 19:37:47)
 
 ## Nations that don't recognize Berry Empire
 - State of **Vishwamitra** (14/12/2021 12:12:12)
