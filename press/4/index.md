@@ -3,6 +3,8 @@
 `Last updated on December 14th, 2021`
 <br>
 
+<a class="thickbutton thick" href="https://forms.gle/Xbs2H7zPMM4ZCeAa8" target="_blank"><span>Add your micronation</span></a>
+
 ## Nations that recognize Berry Empire
 - Democratic Christian **Republic of Melite** (14/12/2021 11:01:53)
 - Kingdom of **Blazdonia** (14/12/2021 11:22:00)
