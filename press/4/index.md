@@ -1,5 +1,5 @@
 # Recognition
-`November 23th, 2021`<br>
+`November 23rd, 2021`<br>
 `Last updated on December 14th, 2021`
 <br>
 
