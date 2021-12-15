@@ -17,6 +17,7 @@
 - **Millind** (14/12/2021 22:38:20)
 - Confederation of **Cannaland** (14/12/2021 23:29:52)
 - Principality of **Sancratosia** (15/12/2021 01:56:34)
+- The **Soyuz**ist Republic of **Azameen** (15/12/2021 09:45:05)
 
 ## Nations that don't recognize Berry Empire
 - State of **Vishwamitra** (14/12/2021 12:12:12)
