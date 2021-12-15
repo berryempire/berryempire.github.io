@@ -22,4 +22,3 @@
 - The **Soyuz**ist Republic of **Azameen** (15/12/2021 09:45:05)
 
 ## Nations that don't recognize Berry Empire
-- State of **Vishwamitra** (14/12/2021 12:12:12)
