@@ -2,6 +2,8 @@
 `November 23rd, 2021`<br>
 `Last updated on December 14th, 2021`
 <br>
+<a class="thickbutton thick" href="https://forms.gle/Xbs2H7zPMM4ZCeAa8" target="_blank"><span>Add your micronation</span></a>
+<br>
 
 ## Nations that recognize Berry Empire
 - Democratic Christian Republic of **Melite** (14/12/2021 11:01:53)
@@ -21,5 +23,3 @@
 
 ## Nations that don't recognize Berry Empire
 - State of **Vishwamitra** (14/12/2021 12:12:12)
-
-<a class="thickbutton thick" href="https://forms.gle/Xbs2H7zPMM4ZCeAa8" target="_blank"><span>Add your micronation</span></a>
