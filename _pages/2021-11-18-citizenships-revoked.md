@@ -1,3 +1,8 @@
+---
+resource: true
+categories: [press, micronation, news]
+---
+
 # Old citizenships revoked
 <code>November 18th, 2021</code>
 
