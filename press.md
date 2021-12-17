@@ -1,9 +1,7 @@
 <ul>
-{% for page in site.pages %}
-  {% if page.categories contains 'press' %}
+  {% for post in site.posts %}
     <li>
-      <a href="#"><p>Page</p></a>
+      <a href="{{ post.url }}">{{ post.title }}</a>
     </li>
-  {% endif %}
-{% endfor %}
+  {% endfor %}
 </ul>
