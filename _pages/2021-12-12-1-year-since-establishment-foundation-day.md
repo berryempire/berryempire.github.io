@@ -1,3 +1,8 @@
+---
+layout: page
+categories: [press, micronation]
+---
+
 # 1 year since establishment
 <code>December 12th, 2021</code>
 
