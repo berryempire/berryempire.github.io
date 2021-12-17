@@ -1,8 +1,3 @@
----
-layout: page
-categories: [press, diplomacy]
----
-
 # Domain provided by the Cupertino Alliance
 <code>November 21th, 2021</code>
 <br>

@@ -1,8 +1,3 @@
----
-layout: page
-categories: [press, micronation, space]
----
-
 # New logo for Berry Empire Space & Telemetry
 <code>November 22th, 2021</code>
 <br>

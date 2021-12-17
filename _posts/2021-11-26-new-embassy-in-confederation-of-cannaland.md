@@ -1,4 +1,4 @@
-# New embassy in the Confederation of Cannaland
+# New embassy in Confederation of Cannaland
 <code>November 26th, 2021</code><br>
 <p>
 We are proud to announce the establishment of a new Berrian embassy in Cannaland.
