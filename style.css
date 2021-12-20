@@ -208,11 +208,6 @@ h3 {
   color: var(--cloudberry);
 }
 
-.highlighted {
-  background-color: var(--berryred);
-  color: white;
-}
-
 .news {
   background-color: var(--berryblue);
   display: flex;
