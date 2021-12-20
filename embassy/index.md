@@ -12,5 +12,5 @@
 </ul>
 
 ### Embassy page template
-<a href="template" class="thickbutton thick"><span>How to use the template</span></a>
+<a href="./template.html" class="thickbutton thick"><span>How to use the template</span></a>
 <a href="/static/embassypage.html" target="_blank" class="thickbutton thick"><span>Template</span></a>
