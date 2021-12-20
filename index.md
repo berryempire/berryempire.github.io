@@ -7,7 +7,7 @@
 </section>
 <section>
   <h3 class="highlighted"> Citizenship </h3>
-  We encourage you to become a citizen!
+  <p>Become a citizen online!</p>
   <a class="thickbutton thick" href="/citizen/"> <span>Learn more</span> </a>
   <a class="thickbutton thick" href="https://docs.google.com/forms/d/e/1FAIpQLSfkJTmNNMBZQjtnY1X0qukH5jc4miOadwbrQjsZ3HqjJVhTfQ/viewform?usp=sf_link"> <span>Citizenship form</span> </a>
   <a class="thickbutton thick" href="/law/subterritory.html"> <span>Govern a subterritory</span> </a>

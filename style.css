@@ -3,6 +3,7 @@
   max-height: 100%;
   margin: 0;
   padding: 0;
+  box-sizing: border-box;
 }
 
 :root {
@@ -164,17 +165,16 @@ footer > .links {
   color: var(--berryblue);
 }
 
-footer a.thickbutton {
+a.thickbutton.positive {
   background-color: white;
   color: var(--berryblue);
-
 }
 
-footer a.thickbutton:hover span {
+a.thickbutton.positive:hover span {
   color: white;
 }
 
-footer a.thickbutton::before {
+a.thickbutton.positive::before {
   background-color: var(--berryred);
 }
 
@@ -209,7 +209,7 @@ h3 {
 }
 
 .highlighted {
-  background-color: var(--berryred)
+  background-color: var(--berryred);
   color: white;
 }
 
@@ -251,4 +251,42 @@ nav a {
 nav a:not(:last-child)::after {
   content: ">";
   margin-left: 0.8rem;
+}
+
+.cards {
+  display: grid;
+  grid-template-columns: 50% 50%;
+  grid-auto-flow: row;
+  gap: 1rem;
+
+  padding: 1rem;
+  padding-right: 2rem;  
+}
+
+.card {
+  width: 100%;
+  height: 100%;
+
+  display: flex;
+  flex-direction: column;
+
+  padding: 1rem;
+  border-radius: .4rem;
+  border: 1px dashed var(--berryblue);
+}
+
+.card h2 {
+  color: inherit;
+}
+
+.card.full {
+  grid-column: 1 / -1;
+}
+
+.stamp {
+  width: 5rem;
+  height: 5rem;
+  background-size: contain;
+  margin-right: 2rem;
+  margin-bottom: 2rem;
 }
