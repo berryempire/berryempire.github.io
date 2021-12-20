@@ -38,6 +38,10 @@ a {
   color: var(--berryblue);
 }
 
+p {
+  float: left;
+}
+
 body {
   color: var(--negative-2);
 }
@@ -257,6 +261,8 @@ nav a:not(:last-child)::after {
   padding: 1rem;
   border-radius: .4rem;
   border: 1px dashed var(--berryblue);
+
+  margin-bottom: 1rem;
 }
 
 .card h2 {
