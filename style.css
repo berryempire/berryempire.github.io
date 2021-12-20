@@ -270,8 +270,8 @@ nav a:not(:last-child)::after {
 }
 
 .stamp {
-  width: 5rem;
-  height: 5rem;
+  width: 8rem;
+  height: 8rem;
   background-size: contain;
   margin-right: 2rem;
   margin-bottom: 2rem;
