@@ -18,4 +18,4 @@ Berry Empire is a proud member of the Cupertino Alliance, International Aerospac
 <a class="thickbutton thick" href="/embassy/"> <span>Instructions</span> </a>
 
 <br>
-<img src="/images/flag.png" height="200" />
+<img src="/images/flagwave.png" height="200" />
