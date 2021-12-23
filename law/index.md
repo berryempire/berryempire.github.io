@@ -2,9 +2,9 @@
 ### Laws in force
 A list of all active laws in the Berry Empire
 <ul>
-  <li><a href="./constitution.html">Constitution</a></li>
-  <li><a href="./territory.html">Subterritory governance</a></li>
-  <li><a href="./privacy.html">Privacy</a></li>
+  <li><a href="./constitution">Constitution</a></li>
+  <li><a href="./territory">Subterritory governance</a></li>
+  <li><a href="./privacy">Privacy</a></li>
 </ul>
 <hr>
 ### Treaties
