@@ -1,4 +1,4 @@
-## Citizenship
+# Citizenship
 There's not a better way of supporting the Berry Empire than becoming a citizen as you can have multiple citizenships at the same time.
 Citizens can not only become governors, but also open embassies and observe our aerospace research.
 
