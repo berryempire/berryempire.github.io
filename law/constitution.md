@@ -5,8 +5,9 @@
 The Berry Empire is an independent and sovereign self-governing international entity.
 
 ### §1 Governance
-The Berry Empire is ruled by an emperor. 
-The emperor must choose a successor in the event of voluntary renunciation of power.
+The Berry Empire is ruled by an emperor.
+The emperor may choose a lieutenant emperor - their representative and successor.
+The lieutenant emperor will rule the empire in the event of emperor's voluntary renunciation of power or inactivity.
 
 ### §2 Recognition
 The Berry Empire recognizes each sovereign entity that has control over their respective territory
@@ -15,14 +16,14 @@ The Berry Empire recognizes each sovereign entity that has control over their re
 The emperor or an authority chosen by the emperor is allowed to grant, suspend or revoke citizenships.
 
 ### §4 Visa
-The emperor or an authority chosen by the emperor is responsible for issuing visas.
+Governor of each territory is responsible for issuing visas.
 
-### §5 Legal documents
-The emperor or an authority chosen by the emperor is responsible for issuing legal documents, passports, visas and postal stamps.
-
-### §6 Military
+### §5 Military
 The emperor may start a mobilization because of propaganda, to defend the empire or as a result of a diplomatic agreement.
 
+### §6 Law
+Laws, treaties and contracts can enter into the force by signature of the emperor or the lieutenant emperor.
+
 Signed Redberry, MP<br>
-18th August 2021<br>
+December 23rd 2021<br>
 The Sand Well
