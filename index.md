@@ -10,7 +10,7 @@ Become a citizen online! <br>
 # Diplomacy
 Berry Empire is a proud member of the Cupertino Alliance, International Aerospace Community and Grand UnifieMicronational.We are always willing to establish diplomatic relations with other micronations - please do contact us.
 <br>
-<a class="thickbutton thick" href="/press/"> <span>Press</span> </a>
+<a class="thickbutton thick" href="/press"> <span>Press</span> </a>
 <a class="thickbutton thick" href="mailto:berryempire@protonmail.com"> <span>Email</span> </a>
 <a class="thickbutton thick" target="_blank" href="https://micronear.cupertinoalliance.com/micronation.html?m=RR"> <span>Micronear page</span> </a>
 
