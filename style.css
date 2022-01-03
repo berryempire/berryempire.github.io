@@ -273,6 +273,5 @@ nav a:not(:last-child)::after {
   width: 8rem;
   height: 8rem;
   background-size: contain;
-  margin-right: 2rem;
-  margin-bottom: 2rem;
+  margin-right: 0.5rem;
 }
