@@ -1,5 +1,5 @@
 # 1 year since establishment
-<code>December 12th, 2021</code>
+`December 12th, 2021`
 
 Berry Empire was established exactly one year ago, today.
 It has undergone a lot of development since then, and became a part of the micronational community.
