@@ -1,5 +1,6 @@
-## Law
-### Laws in force
+# Law
+If a document allegadely signed by the empire isn't on this page, it isn't signed or it's been voided.
+## Laws in force
 A list of all laws active in Berry Empire
 <ul>
   <li><a href="./constitution">Constitution</a></li>
@@ -13,5 +14,3 @@ A list of all treaties, signed or ratified by Berry Empire
   <li><a href="./treaty/1_iac_charter.html">International Aerospace Community Charter</a></li>
   <li><a href="./treaty/2_ca_charter.html">Cupertino Alliance Charter</a></li>
 </ul>
-
-If a document isn't on this page, it isn't ratified by the empire.
