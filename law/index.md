@@ -9,7 +9,6 @@ A list of all laws active in Berry Empire
   <li><a href="./territory">Subterritory governance</a></li>
   <li><a href="./privacy">Privacy</a></li>
 </ul>
-<hr>
 
 ### Treaties
 A list of all treaties, signed or ratified by Berry Empire
