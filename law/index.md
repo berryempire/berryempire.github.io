@@ -1,5 +1,5 @@
 # Law
-If a document allegadely signed by the empire isn't on this page, it isn't signed or it's been voided.
+If a document allegadely signed by the empire isn't on this page, it wasn't signed or it's been voided.
 ## Laws in force
 A list of all laws active in Berry Empire
 <ul>
