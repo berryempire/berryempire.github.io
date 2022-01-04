@@ -1,5 +1,5 @@
 # Law
-`Updated in December 28th, 2021`
+`Updated on December 28th, 2021`
 
 If a document allegadely signed by the empire isn't on this page, it wasn't signed or it's been voided.
 ## Laws in force
