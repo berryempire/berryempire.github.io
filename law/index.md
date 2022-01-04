@@ -18,5 +18,7 @@ A list of all treaties, signed or ratified by Berry Empire
 </ul>
 
 ### Decrees
-A list of all valid decrees
-(none)
+A list of all imperial decrees
+<ul>
+  <li>No decrees</li>
+</ul>
