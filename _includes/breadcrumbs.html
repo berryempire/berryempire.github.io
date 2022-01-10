@@ -2,7 +2,7 @@
 <a href="/">Home</a>
 {% if page.path contains '_posts' %}
     <a href="/press">Berry Empire Press</a>
-    <a href="{{page.url}}">{{ page.title | replace:'-',' ' | remove:'.html' | capitalize }}</a>
+    <a href="{{page.url}}">{{page.title}}</a>
 {% else %}
     {% for crumb in crumbs offset: 1 %}
         <a href="{% assign crumb_limit = forloop.index | plus: 1 %}{% for crumb in crumbs limit: crumb_limit %}{{ crumb | replace:'without-plugin/','without-plugins/' }}{% endfor %}">{{ crumb | replace:'-',' ' | remove:'.html' | capitalize }}</a>
