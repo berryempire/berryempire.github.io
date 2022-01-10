@@ -4,5 +4,5 @@
 We are proud to announce the establishment of a new Berrian embassy in Cannaland.
 Confederation of Cannaland is a Micronation claiming 1 acre in the heart of the Texas Hill Country, ruled by King Rissmiller I.
 </p>
-<img src="./embassy.jpg">
+<img src="/images/embassy/cannaland.jpg">
 <p> Embassy </p>
