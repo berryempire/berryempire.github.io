@@ -1,6 +1,7 @@
 {% assign crumbs = page.url | remove:'/index.html' | split: '/' %}
 <a href="/">Home</a>
 {% if page.path contains '_posts' %}
+    <a href="/press">Berry Empire Press</a>
     <a href="{{page.url}}">{{ page.title | replace:'-',' ' | remove:'.html' | capitalize }}</a>
 {% else %}
     {% for crumb in crumbs offset: 1 %}
