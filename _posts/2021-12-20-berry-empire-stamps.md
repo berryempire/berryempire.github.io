@@ -11,13 +11,13 @@ Philatelistic sets of stamps without any nominal value.
 
 <div class="stamp" style="background-image:url(/images/stamps/2.png)"></div>
 
-- "Micronear, dark"
+- "Micronear, light"
 - Printed: 30 PCS
 - Year: 2021
 
 <div class="stamp" style="background-image:url(/images/stamps/3.png)"></div>
 
-- "Micronear, light"
+- "Micronear, dark"
 - Printed: 30 PCS
 - Year: 2021
 
@@ -32,3 +32,27 @@ Philatelistic sets of stamps without any nominal value.
 - "Berries × Eritonia"
 - Printed: 10 PCS
 - Year: 2021
+
+<div class="stamp" style="background-image:url(/images/stamps/6.png)"></div>
+
+- "BEST: The Moon"
+- Printed: 5 PCS
+- Year: 2022
+
+<div class="stamp" style="background-image:url(/images/stamps/7.png)"></div>
+
+- "BEST: The Sun"
+- Printed: 5 PCS
+- Year: 2022
+
+<div class="stamp" style="background-image:url(/images/stamps/8.png)"></div>
+
+- "BEST: The Moon (art)"
+- Printed: 5 PCS
+- Year: 2022
+
+<div class="stamp" style="background-image:url(/images/stamps/9.png)"></div>
+
+- "BEST: The Sun (art)"
+- Printed: 5 PCS
+- Year: 2022
