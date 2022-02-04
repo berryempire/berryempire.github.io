@@ -1,3 +1,7 @@
+---
+layout: best
+---
+
 # Berry Empire Space & Telemetry
 We develop and launch rockets for the sake of science.
 <a href="https://micronations.wiki/wiki/Berry_Empire_Space_%26_Telemetry" target="_blank" class="thickbutton thick"><span>Wiki</span></a>
