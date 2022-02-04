@@ -275,3 +275,21 @@ nav a:not(:last-child)::after {
   background-size: contain;
   margin-right: 0.5rem;
 }
+
+body.index .indexgrid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, 32%);
+  gap: 1rem;
+  justify-content: center;
+  align-content: center;
+  align-items: center;
+  justify-items: center;
+}
+
+body.index .indexgrid > div {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: start;
+  min-width: 40px;
+}
