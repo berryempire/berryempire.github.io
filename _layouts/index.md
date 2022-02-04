@@ -18,15 +18,12 @@
     <header>
         <a class="logo" href="/">
             <span>Berry Empire</span>
-            <!--<span>Glory to the Emperor</span>-->
+            <span>Glory to the Emperor</span>
         </a>
     </header>
 <div class="news">
    {% include news.html %}
 </div>
-    <nav>
-        {% include breadcrumbs.html %}
-    </nav>
     <main>
       {{content}}
     </main>
