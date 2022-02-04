@@ -282,7 +282,7 @@ body.index .indexgrid {
   gap: 1rem;
   justify-content: center;
   align-content: center;
-  align-items: center;
+  align-items: end;
   justify-items: center;
 }
 
