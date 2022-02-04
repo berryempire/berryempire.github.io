@@ -1,4 +1,8 @@
-# Bilberry rocket
+---
+layout: best
+---
+
+# Bilberry rocket (BERRY-R-3)
 Bilberry was a tiny (6.5cm) aluminium rocket.
 It was launched two times.
 
