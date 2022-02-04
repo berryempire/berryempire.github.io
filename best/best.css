@@ -1,0 +1,20 @@
+body {
+    background: black;
+    color: #eee;
+}
+
+h1, h2, h3 {
+    color: #fff;
+}
+
+.news {
+    background-color: #00000000;
+    display: flex;
+    gap: 1rem;
+    flex-wrap: wrap;
+    padding: 1rem;
+}
+
+footer {
+  background-color: var(--berryred);
+ }
