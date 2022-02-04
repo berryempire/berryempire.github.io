@@ -229,7 +229,7 @@ h3 {
 }
 
 .news > *:not(:first-child) {
-    background-color: var(--berryred);
+    border: 2px dashed currentColor;
 }
 
 .news > *:not(:first-child):hover {
