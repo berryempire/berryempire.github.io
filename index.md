@@ -1,3 +1,7 @@
+---
+layout: index
+---
+
 # Berry Empire Official Website
 Berry Empire is a micronation - a tiny country claiming 2km<sup>2</sup> of nature. Independent since 12th December, 2020.
 
