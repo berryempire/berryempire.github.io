@@ -229,7 +229,7 @@ h3 {
 }
 
 .news > *:not(:first-child) {
-    border: 2px dashed currentColor;
+    background: rgba(100, 100, 255, 0.1);
 }
 
 .news > *:not(:first-child):hover {
