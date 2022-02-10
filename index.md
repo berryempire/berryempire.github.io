@@ -39,6 +39,6 @@ layout: index
   <img src="/images/sun.jpg" alt="A picture of the sun taken by the Berry Empire Space & Telemetry team" />
   </div>
     </div>
-  <img src="/best_telemetry.png" alt="Satellite imagery received by the Berry Empire Space & Telemetry team" />
+  <img src="/images/best_telemetry.png" alt="Satellite imagery received by the Berry Empire Space & Telemetry team" />
   </div>
  </div>
