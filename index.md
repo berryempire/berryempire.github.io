@@ -24,21 +24,22 @@ layout: index
     <a class="thickbutton thick" href="/embassy/"> <span>Create an embassy</span> </a>
     </p>
   </div>
-  <img src="/images/berrynotes_front.jpg" alt="Berry Empire notes - Berries" />
+  <div>
+    <img src="/images/berrynotes_front.jpg" alt="Berry Empire notes - Berries" />
   </div>
+  <div>
+    <img src="/images/berrynotes_back.jpg" alt="Berry Empire notes - Berries" />
   </div>
-  <img src="/images/berrynotes_back.jpg" alt="Berry Empire notes - Berries" />
+  <div>
+    <img src="/images/toubak.jpg" alt="Holding the Berry Empire flag" />
   </div>
+  <div>
+   <img src="/images/moon.jpg" alt="A picture of the moon taken by the Berry Empire Space & Telemetry team" />
   </div>
-  <img src="/images/toubak.jpg" alt="Holding the Berry Empire flag" />
+  <div>
+   <img src="/images/sun.jpg" alt="A picture of the sun taken by the Berry Empire Space & Telemetry team" />
   </div>
-  </div>
-  <img src="/images/moon.jpg" alt="A picture of the moon taken by the Berry Empire Space & Telemetry team" />
-  </div>
-  </div>
-  <img src="/images/sun.jpg" alt="A picture of the sun taken by the Berry Empire Space & Telemetry team" />
-  </div>
-    </div>
-  <img src="/images/best_telemetry.png" alt="Satellite imagery received by the Berry Empire Space & Telemetry team" />
+  <div>
+    <img src="/images/best_telemetry.png" alt="Satellite imagery received by the Berry Empire Space & Telemetry team" />
   </div>
  </div>
