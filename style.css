@@ -277,6 +277,7 @@ nav a:not(:last-child)::after {
 }
 
 body.index .indexgrid {
+  width: 100%;
   display: grid;
   grid-template-columns: repeat(auto-fill, 20rem);
   gap: 1rem;
@@ -284,6 +285,10 @@ body.index .indexgrid {
   align-content: center;
   align-items: end;
   justify-items: center;
+}
+
+.indexgrid_wider {
+    grid-column: span 2;
 }
 
 body.index .indexgrid > div {
