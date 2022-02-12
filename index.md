@@ -2,7 +2,6 @@
 layout: index
 ---
 
-<div class="indexgrid">
   <div>
     <img src="/images/flagwave.png" height="200" />
     <h2> About </h2>
@@ -24,6 +23,7 @@ layout: index
     <a class="thickbutton thick" href="/embassy/"> <span>Create an embassy</span> </a>
     </p>
   </div>
+ <div class="indexgrid">
   <div>
     <img src="/images/berrynotes_front.jpg" alt="Berry Empire notes - Berries" />
   </div>
