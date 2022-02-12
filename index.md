@@ -23,7 +23,7 @@ layout: index
     <a class="thickbutton thick" href="/embassy/"> <span>Create an embassy</span> </a>
     </p>
   </div>
- <div class="indexgrid">
+ <div class="grid">
   <div>
     <img src="/images/berrynotes_front.jpg" alt="Berry Empire notes - Berries" />
   </div>
