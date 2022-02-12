@@ -259,11 +259,6 @@ nav a {
   border-radius: 0.3rem;
 }
 
-nav a:not(:last-child)::after {
-  content: ">";
-  margin-left: 0.8rem;
-}
-
 .card {
   width: 100%;
 
