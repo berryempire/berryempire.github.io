@@ -1,4 +1,4 @@
-{% assign crumbs = page.url | remove:'/index.html' | split: '/' %}
+{% assign crumbs = page.url | remove:'index.html' | split: '/' %}
 <a href="/">Home</a>
 {% if page.path contains '_posts' %}
     <a href="/press">Berry Empire Press</a>
@@ -8,7 +8,7 @@
         <a href="
                  {% assign crumb_limit = forloop.index | plus: 0 %}
                  {% for crumb in crumbs limit: crumb_limit %}
-                    {{ crumb | replace:'without-plugin/','without-plugins/' }}
+                    {{ crumb }}
                  {% endfor %}
         ">
             {{ crumb | replace:'-',' ' | remove:'.html' | capitalize }}
