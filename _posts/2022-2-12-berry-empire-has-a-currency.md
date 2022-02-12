@@ -19,6 +19,6 @@ Reverse side
   </div>
   <div>
 <img src="https://berryempire.cupertinoalliance.ca/images/berrynotes_closeup.jpg" />
-Closeup on the notes
+Close up on the notes
   </div>
 </div>
