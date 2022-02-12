@@ -8,9 +8,17 @@ Therefore the notes are backed by EUR.
 Currently, there are notes of two different denominations - 1 BER and 10 BER.
 The government does not plan to release notes with higher denominations in the future and denies the migration of the currency to a digital or crypto system.
 
+<div class="grid">
+  <div>
 <img src="https://berryempire.cupertinoalliance.ca/images/berrynotes_front.jpg" />
 Obverse side
+  </div>
+  <div>
 <img src="https://berryempire.cupertinoalliance.ca/images/berrynotes_back.jpg" />
 Reverse side
+  </div>
+  <div>
 <img src="https://berryempire.cupertinoalliance.ca/images/berrynotes_closeup.jpg" />
 Closeup on the notes
+  </div>
+</div>
