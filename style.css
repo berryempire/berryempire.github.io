@@ -230,6 +230,11 @@ h3 {
   border-radius: 4px;
   transition: all .1s;
   color: white;
+  text-decoration: none;
+}
+
+.news > *:first-child {
+  margin-right: auto;
 }
 
 .news > *:not(:first-child) {
@@ -245,6 +250,9 @@ h3 {
   .news {
     order: 4;
     border-bottom: 2px dashed white;
+  }
+  .news > *:first-child {
+    margin-right: default;
   }
 }
 
