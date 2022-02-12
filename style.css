@@ -278,13 +278,9 @@ nav a:not(:last-child)::after {
 
 body.index .indexgrid {
   width: 100%;
-  display: grid;
-  grid-template-columns: repeat(auto-fill, 20rem);
+  display: flex;
+  flex-wrap: wrap;
   gap: 1rem;
-  justify-content: center;
-  align-content: center;
-  align-items: end;
-  justify-items: center;
 }
 
 .indexgrid_wider {
@@ -292,7 +288,7 @@ body.index .indexgrid {
 }
 
 body.index .indexgrid > div {
-  width: 100%;
+  width: auto;
   display: flex;
   flex-direction: column;
   align-items: start;
