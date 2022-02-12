@@ -288,18 +288,15 @@ nav a:not(:last-child)::after {
   margin-right: 0.5rem;
 }
 
-body.index .indexgrid {
+.grid {
   width: 100%;
   display: flex;
   flex-wrap: wrap;
   gap: 1rem;
 }
 
-.indexgrid_wider {
-    grid-column: span 2;
-}
 
-body.index .indexgrid > div {
+.grid > div {
   width: auto;
   display: flex;
   flex-direction: column;
