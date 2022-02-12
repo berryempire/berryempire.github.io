@@ -1,8 +1,8 @@
 {% assign crumbs = page.url | remove:'/index.html' | split: '/' %}
 <a href="/">Home</a>
 {% if page.path contains '_posts' %}
-    <a href="/press">Berry Empire Press</a>
-    {{ page.title }}
+    / <a href="/press">Berry Empire Press</a>
+    / {{ page.title }}
 {% else %}
   {% for crumb in crumbs offset: 1 %}
     {% if forloop.last %}
