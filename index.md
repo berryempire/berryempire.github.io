@@ -25,6 +25,12 @@ layout: index
   </div>
  <div class="grid">
   <div>
+    <img src="/images/pangeria1.jpg" alt="Berry notes in Pangeria" />
+  </div>
+  <div>
+    <img src="/images/pangeria4.jpg" alt="Berry notes in Pangeria" />
+  </div>
+  <div>
     <img src="/images/berrynotes_front.jpg" alt="Berry Empire notes - Berries" />
   </div>
   <div>
