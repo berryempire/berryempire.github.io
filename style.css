@@ -26,6 +26,11 @@ html {
   font-family: 'Roboto Slab', serif;
 }
 
+.inline {
+  display: inline;
+  height: 1em;
+}
+
 body {
   display: flex;
   flex-direction: column;
