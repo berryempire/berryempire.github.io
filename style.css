@@ -26,11 +26,6 @@ html {
   font-family: 'Roboto Slab', serif;
 }
 
-.inline {
-  display: inline;
-  height: 1em;
-}
-
 body {
   display: flex;
   flex-direction: column;
@@ -125,6 +120,11 @@ footer > .links {
   flex-wrap: wrap;
   gap: 0.5rem;
   margin-bottom: 1rem;
+}
+
+.inline {
+  display: inline;
+  height: 0.75em;
 }
 
 .thickbutton {
