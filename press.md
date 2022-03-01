@@ -1,4 +1,4 @@
-# Berry Empire Press
+# Imperial Press
 
 <ol reversed>
   {% for post in site.posts %}
