@@ -10,8 +10,8 @@
 	The High Parties may, upon further agreement, share research, trade pacts, exchange currencies, travel documents, and other items.
 
 
-For the Federal Republic of Aarland:
-Tim Landa MP March 3rd, 2022
-
-For the Berry Empire:
-Redberry Null MP March 3rd, 2022
+For the Federal Republic of Aarland:<br>
+Tim Landa MP March 3rd, 2022<br>
+<br>
+For the Berry Empire:<br>
+Redberry Null MP March 3rd, 2022<br>
