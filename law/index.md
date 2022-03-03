@@ -15,7 +15,7 @@ A list of all treaties, signed or ratified by Berry Empire
 <ul>
   <li><a href="./treaty/1_iac_charter.html">International Aerospace Community Charter</a></li>
   <li><a href="./treaty/2_ca_charter.html">Cupertino Alliance Charter</a></li>
-  <li><a href="./treaty/3_peto_charter.html">Pan European Trade Organization Charter</a></li
+  <li><a href="./treaty/3_peto_charter.html">Pan European Trade Organization Charter</a></li>
   <li><a href="./treaty/4_hamburg.html">Hamburg Treaty</a></li>
 </ul>
 
