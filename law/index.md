@@ -19,6 +19,11 @@ A list of all treaties, signed or ratified by Berry Empire
   <li><a href="./treaty/4_hamburg.html">Hamburg Treaty</a></li>
 </ul>
 
+### Recognition treaties
+<ul>
+  <li><a href="./recognition/aarland.html">Republic of Aarland</a></li>
+</ul>
+
 ### Decrees
 A list of all imperial decrees
 <ul>
