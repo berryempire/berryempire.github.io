@@ -9,7 +9,7 @@
       / {{ page.title }}
     {% else %}
       /
-        {% assign crumbpath = "" %}
+        
         {% assign crumb_limit = forloop.index | plus: 1 %}
         {% for crumb in crumbs limit: crumb_limit %}
             {% assign crumbpath = crumbpath | assign: crumb | assign: '/' | replace:'without-plugin/','without-plugins/' %}
