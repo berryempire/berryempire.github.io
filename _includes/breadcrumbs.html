@@ -12,7 +12,7 @@
         {% assign crumbpath = "" %}
         {% assign crumb_limit = forloop.index | plus: 1 %}
         {% for crumb in crumbs limit: crumb_limit %}
-            {% crumbpath = crumbpath + crumb + '/' | replace:'without-plugin/','without-plugins/' %}
+            {% assign crumbpath = crumbpath + crumb + '/' | replace:'without-plugin/','without-plugins/' %}
         {% endfor %}
         @ {{crumbpath}} @
         {% if crumbpath + "index.md" in site.static.files %}
