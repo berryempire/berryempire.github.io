@@ -14,6 +14,7 @@
         {% for crumb in crumbs limit: crumb_limit %}
             {% assign crumbpath = crumbpath + crumb | append: '/' | replace:'without-plugin/','without-plugins/' %}
         {% endfor %}
+        @ {{crumbpath}} @
         {% if crumbpath contains 'index.md' %}
             <a href="{% assign crumb_limit = forloop.index | plus: 1 %}{% for crumb in crumbs limit: crumb_limit %}{{ crumb | append: '/' | replace:'without-plugin/','without-plugins/' }}{% endfor %}">{{ crumb | replace:'-',' ' | remove:'.html' | capitalize }}</a>
         {% else %}
