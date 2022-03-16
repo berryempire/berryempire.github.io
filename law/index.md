@@ -54,6 +54,7 @@ A list of all imperial decrees
   <li>
     <span><a href="./decree/tax.html">Tax decree</a></span>
     <span><a href="./decree/tax.md" download>Source</a> | <a href="./decree/tax.bin" download>Cryptographic signature</a></span>
+  </li>
 </ul>
 
 ## Verify the signatures
