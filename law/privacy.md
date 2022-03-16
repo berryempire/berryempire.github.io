@@ -1,3 +1,4 @@
+EXPIRY: END OF 2023
 ## Privacy
 In the Berry Empire, privacy is a fundamental human right respected even by the authorities.
 
