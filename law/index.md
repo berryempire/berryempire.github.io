@@ -21,25 +21,42 @@ A list of all laws active in Berry Empire
 
 ### Treaties
 A list of all treaties, signed or ratified by Berry Empire
-<ul>
-  <li><a href="./treaty/1_iac_charter.html">International Aerospace Community Charter</a></li>
-  <li><a href="./treaty/2_ca_charter.html">Cupertino Alliance Charter</a></li>
-  <li><a href="./treaty/3_peto_charter.html">Pan European Trade Organization Charter</a></li>
-  <li><a href="./treaty/4_hamburg.html">Hamburg Treaty</a></li>
+<ul class="law">
+  <li>
+    <span><a href="./treaty/1_iac_charter.html">International Aerospace Community Charter</a></span>
+    <span><a href="./treaty/1_iac_charter.md" download>Source</a> | <a href="./treaty/1_iac_charter.bin" download>Cryptographic signature</a></span>
+  </li>
+  <li>
+    <span><a href="./treaty/2_ca_charter.html">Cupertino Alliance Charter</a></span>
+    <span><a href="./treaty/2_ca_charter.md" download>Source</a> | <a href="./treaty/2_ca_charter.bin" download>Cryptographic signature</a></span>
+  </li>
+  <li>
+    <span><a href="./treaty/3_peto_charter.html">Pan European Trade Organization Charter</a></span>
+    <span><a href="./treaty/3_peto_charter.md" download>Source</a> | <a href="./treaty/3_peto_charter.bin" download>Cryptographic signature</a></span>
+  </li>
+  <li>
+    <span><a href="./treaty/4_hamburg.html">Hamburg Treaty</a></span>
+    <span><a href="./treaty/4_hamburg.md" download>Source</a> | <a href="./treaty/4_hamburg.bin" download>Cryptographic signature</a></span>
+  </li>
 </ul>
 
 ### Recognition treaties
-<ul>
-  <li><a href="./recognition/aarland.html">Republic of Aarland</a></li>
+<ul class="law">
+  <li>
+    <span><a href="./recognition/aarland.html">Republic of Aarland</a></span>
+    <span><a href="./recognition/aarland.md" download>Source</a> | <a href="./recognition/aarland.bin" download>Cryptographic signature</a></span>
+  </li>
 </ul>
 
 ### Decrees
 A list of all imperial decrees
-<ul>
-  <li><a href="./tax.html">Tax decree</a></li>
+<ul class="law">
+  <li>
+    <span><a href="./decree/tax.html">Tax decree</a></span>
+    <span><a href="./decree/tax.md" download>Source</a> | <a href="./decree/tax.bin" download>Cryptographic signature</a></span>
 </ul>
 
-## Verify our signatures
+## Verify the signatures
 Contents the imperial <a href="./public_key.pem">Public Key</a>:
 ```
 -----BEGIN PUBLIC KEY-----
