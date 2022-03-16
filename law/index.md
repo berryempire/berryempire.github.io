@@ -3,7 +3,7 @@
 
 If a document allegadely signed by the empire isn't on this page, it wasn't signed or it's been voided.
 ## Laws in force
-A list of all laws active in Berry Empire
+A list of all laws active in the Berry Empire
 <ul class="law">
   <li>
     <span><a href="./constitution">Constitution</a></span>
