@@ -1,3 +1,4 @@
+EXPIRY: END OF 2023
 ## Berry Empire Constitution
 <code>August 18th, 2020</code>
 
