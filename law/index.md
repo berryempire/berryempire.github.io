@@ -58,6 +58,7 @@ A list of all imperial decrees
 
 ## Verify the signatures
 Contents the imperial <a href="./public_key.pem">Public Key</a>:
+
 ```
 -----BEGIN PUBLIC KEY-----
 MIICIjANBgkqhkiG9w0BAQEFAAOCAg8AMIICCgKCAgEA2sJxY8hLsJ3026+4104p
