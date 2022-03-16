@@ -1,3 +1,4 @@
+EXPIRY: END OF 2023
 ## Territories
 Any Berrian citizen can declare their land as subterritory of the Berry Empire.
 In this case, the citizen becomes governor of the land.
