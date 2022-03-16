@@ -7,15 +7,15 @@ A list of all laws active in Berry Empire
 <ul class="law">
   <li>
     <span><a href="./constitution">Constitution</a></span>
-    <span><a href="./constitution.md">Source</a> | <a href="./constitution.bin">Cryptographic signature</a></span>
+    <span><a href="./constitution.md" download>Source</a> | <a href="./constitution.bin" download>Cryptographic signature</a></span>
   </li>
   <li>
     <span><a href="./territory">Subterritory governance</a></span>
-    <span><a href="./territory.md">Source</a> | <a href="./territory.bin">Cryptographic signature</a></span>
+    <span><a href="./territory.md" download>Source</a> | <a href="./territory.bin" download>Cryptographic signature</a></span>
   </li>
   <li>
     <span><a href="./privacy">Privacy</a></span>
-    <span><a href="./privacy.md">Source</a> | <a href="./privacy.bin">Cryptographic signature</a></span>
+    <span><a href="./privacy.md" download>Source</a> | <a href="./privacy.bin" download>Cryptographic signature</a></span>
   </li>
 </ul>
 
@@ -40,7 +40,7 @@ A list of all imperial decrees
 </ul>
 
 ## Verify our signatures
-Contents of our <a href="./public_key.pem">Public Key</a>:
+Contents the imperial <a href="./public_key.pem">Public Key</a>:
 ```
 -----BEGIN PUBLIC KEY-----
 MIICIjANBgkqhkiG9w0BAQEFAAOCAg8AMIICCgKCAgEA2sJxY8hLsJ3026+4104p
@@ -60,7 +60,7 @@ yPN7HYW5t60t216eWcvDfeMCAwEAAQ==
 ### How to verify?
 
 - Log into a Windows, macOS or Linux machine with <a href="https://www.openssl.org/">OpenSSL</a> installed.
-- Download our <a href="./public_key.pem">Public Key</a>.
+- Download the imperial <a href="./public_key.pem">Public Key</a>.
 - Download the `.bin` signature you'd like to verify as well as the signed file (treaty, etc).
 - Run `openssl dgst -sha256 -verify public_key.pem -signature signature.bin treaty.md` to verify the signature against the treaty and our public key (replace filenames with actual filenames if they differ.)
 - See "Verified OK" or "Verification Failure".
