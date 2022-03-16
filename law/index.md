@@ -57,24 +57,9 @@ A list of all imperial decrees
 </ul>
 
 ## Verify the signatures
-Contents the imperial <a href="./public_key.pem">Public Key</a>:
+You are free to verify the signatures against our <a href="./public_key.pem">Public Key</a>.
+We also encourage you to backup our public key.
 
-```
------BEGIN PUBLIC KEY-----
-MIICIjANBgkqhkiG9w0BAQEFAAOCAg8AMIICCgKCAgEA2sJxY8hLsJ3026+4104p
-cxd+B/SyAjmtBhk/O1BGw3kPRnz+MQ4BDjp5sWsY8/Qj8DdOL6nx5x68/B8sGJSO
-qXFSg40/pndMUTz4SLVl09F2pys1GvFGwjj6TlL3JtzlBLDagnFoLiaM2A+CluWW
-bg0Us9gZrfCOviBjr1/5OIlU/aerHQC54jHpZiMjNZZDJiE9msYsWfPUgZVi4p1p
-2dYuf3qjQi2jR20Bnqq9srxj502SA3+UB/QeMsnGDVxIWtnuwQkZNAC6e4kI49ct
-nkvJcH+PGw4obwx4mTK7lX0x8C7dIz1BJMZW59pmx3u4WkK12Qe3zv2xMH2PsWAM
-vvS82Rkz9VKz5Vigr2nU8RNMRmBxFh/emTlwnM0+Vig08Xf3dbbf7InGzEC9J8aU
-qugao/+SmKWM1AlbGBhPJksEU5Xo35CMDjjp5QlFBm8XGj32qwWvwqr/NmKcZR82
-EwRF+GGBOJXx2aNWOPmowFSeZ7Oxqe2u01UqnQ9XTsHX/Q+aRd0CFTbQqgSR45jg
-EjOSSCd/8zPFXsF1e+NMIohA4E1z8cLmjp8P2IhYaIl/k8hnYS0QVsAMsxqKs3+6
-skG7qoI9bweOi7bHnWDissZ4VH7pjPxAK0zZEHToJLPgchqDXWyMHGSk0/LDAH8F
-yPN7HYW5t60t216eWcvDfeMCAwEAAQ==
------END PUBLIC KEY-----
-```
 ### How to verify?
 
 - Log into a Windows, macOS or Linux machine with <a href="https://www.openssl.org/">OpenSSL</a> installed.
