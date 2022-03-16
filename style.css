@@ -16,6 +16,10 @@
   --negative-0: #000000;
   --negative-1: #101010;
   --negative-2: #202020;
+
+  --positive-0: #ffffff;
+  --positive-1: #f0f0f0;
+  --positive-2: #e0e0e0;
 }
 
 html {
@@ -322,4 +326,11 @@ ul.law li:not(:last-child) {
 ul.law li span:not(:first-child) {
   padding-left: 1rem;
   opacity: .5;
+}
+
+
+code {
+  background-color: var(--positive-2);
+  padding: 0.2rem .5rem;
+  border-radius: .2rem;
 }
