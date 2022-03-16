@@ -20,7 +20,7 @@ A list of all laws active in the Berry Empire
 </ul>
 
 ### Treaties
-A list of all treaties, signed or ratified by Berry Empire
+A list of all signed treaties
 <ul class="law">
   <li>
     <span><a href="./treaty/1_iac_charter.html">International Aerospace Community Charter</a></span>
