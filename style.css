@@ -304,3 +304,22 @@ nav a {
   align-items: start;
   min-width: 40px;
 }
+
+
+ul.law {
+  
+}
+
+ul.law li {
+  display: flex;
+  flex-direction: column;
+}
+
+ul.law li:not(:last-child) {
+  margin-bottom: 0.5rem;
+}
+
+ul.law li span:not(:first-child) {
+  padding-left: 1rem;
+  opacity: .5;
+}
