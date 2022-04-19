@@ -14,7 +14,7 @@ layout: index
   </div>
   <div>
     <h2>Foreign affairs</h2>
-    <p>Berry Empire is a proud member of the Cupertino Alliance and the International Aerospace Community. We are always willing to establish diplomatic relations with other micronations - do contact us.</p>
+    <p>Berry Empire is a proud member of the <a href="https://cupertinoalliance.ca/">Cupertino Alliance</a> and the <a href="https://internationalaerospacecommunity.wordpress.com/">International Aerospace Community</a>. We are always willing to establish diplomatic relations with other micronations - do contact us.</p>
     <br>
     <p>
     <a class="thickbutton thick" href="mailto:empire@duck.com"> <span>Email</span> </a>
